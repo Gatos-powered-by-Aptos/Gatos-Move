@@ -1,0 +1,28 @@
+---
+compiled_package_info:
+  package_name: userinfo
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_token: "0000000000000000000000000000000000000000000000000000000000000003"
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    userinfo_addr: 7e652165e4bf01e87f4d655d8a44a9183858cdad959e512944f99889e5eb1e47
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: 3E433B7AAF2425B7D8DEAD7EE2564AA3BCC228E4002C2F3FECEC76EE4437D210
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+dependencies:
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib

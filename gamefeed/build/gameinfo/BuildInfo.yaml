@@ -1,0 +1,28 @@
+---
+compiled_package_info:
+  package_name: gameinfo
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_token: "0000000000000000000000000000000000000000000000000000000000000003"
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    gamefeed_addr: 7e652165e4bf01e87f4d655d8a44a9183858cdad959e512944f99889e5eb1e47
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: AA3F65472F9141FD7A6D06DEDAC6BDB20B7DB703E84D09828D5D8F946707C3D0
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+dependencies:
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib
