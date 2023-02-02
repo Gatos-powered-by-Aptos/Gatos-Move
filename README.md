@@ -1,6 +1,6 @@
 # Gatos Move Smart Contracts 
 Published on Devnet, Alpha version
-Three main contracts ; community, gamefeed, userinfo
+Three main contracts ; [community](#community), [gamefeed](#gamefeed), [userinfo](#userinfo)
 
 ## community 
 This module demonstrates a basic community using ACL to control the access.
